@@ -11,6 +11,6 @@ It uses while loops and if-elif statements for control flow.
 
 How to Play:
 Clone this repository to your local machine.
-Run the guessinggame.py script.
+Run the gusseninggame.py script.
 Follow the prompts to guess the secret number.
 Feel free to explore the code and customize it as needed
